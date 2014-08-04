@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Paulo Silva/workspace/PatioMile/lib/iReport_Library/jasperreports-5.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
